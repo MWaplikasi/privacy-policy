@@ -1,8 +1,8 @@
 <h1>Privacy Policy</h1>
 
-<p><strong>Effective Date:</strong> [Date]</p>
+<p><strong>Effective Date:</strong> [April 24 th, 2026]</p>
 
-<p>[App Name] is a personal workout tracking application. This Privacy Policy explains how we collect, use, and protect your information.</p>
+<p>[CoachW app] is a personal workout tracking application. This Privacy Policy explains how we collect, use, and protect your information.</p>
 
 <h2>Information We Collect</h2>
 <p>When you create an account or log in, we may collect your name, email address, user ID, and authentication information.</p>
