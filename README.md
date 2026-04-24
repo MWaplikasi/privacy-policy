@@ -18,7 +18,7 @@
 <p>We use reasonable security measures to protect your information. However, no system is completely secure.</p>
 
 <h2>Data Retention and Deletion</h2>
-<p>We retain your information while your account is active or as needed to provide the app. You may request account or data deletion by contacting us at [Your Email].</p>
+<p>We retain your information while your account is active or as needed to provide the app. You may request account or data deletion by contacting us at coachwulandaniels@gmail.com.</p>
 
 <h2>Children’s Privacy</h2>
 <p>This app is not intended for children under 13. We do not knowingly collect personal information from children.</p>
@@ -27,4 +27,4 @@
 <p>We may update this Privacy Policy from time to time. Updates will be posted on this page.</p>
 
 <h2>Contact Us</h2>
-<p>If you have questions or requests, contact us at: [Your Email]</p>
+<p>If you have questions or requests, contact us at: coachwulandaniels@gmail.com</p>
